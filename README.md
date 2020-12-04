@@ -1,2 +1,2 @@
-# Minesweeper_LHH
-信息1901web作业
+# 扫雷
+来源于一次web作业
